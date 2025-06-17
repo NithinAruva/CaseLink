@@ -4,7 +4,7 @@ This project focuses on developing an AI-driven system that integrates video evi
 
 ## ✨ Features
 
-- **Automated Video Transcription**: The system transcribes both audio and visual elements in video files. This includes converting speech to text and extracting text from visual cues such as license plates and signboards.
+- **Automated Video Transcription**: The system transcribes both audio and visual elements in CCTV footage. This includes converting speech to text and extracting text from visual cues such as license plates and signboards.
 - **A Content Analysis for Key Events**: The system analyzes video content to identify suspicious activities and anomalies like unusual movements or potentially illegal actions. This reduces the manual workload and highlights key moments for investigators.
 - **Case File Generation**: Extracted information is used to compile detailed case files. Each file includes suspect activities, relevant observations, and timestamped events, providing investigators with a structured summary.
 - **Legal Query System (Agentic RAG)**: Answers context-aware legal questions by linking evidence to Indian and U.S. legal statutes.
