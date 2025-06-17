@@ -16,8 +16,8 @@ This project focuses on developing an AI-driven system that integrates video evi
    
 2. Clone the repository:
    ```bash
-    git clone https://github.com/NithinAruva/AccidentDetectionSystem.git
-    cd AccidentDetectionSystem
+    git clone https://github.com/NithinAruva/CaseLink.git
+    cd CaseLink
    ```
 
 3. Install dependencies:
