@@ -1,5 +1,4 @@
 # CaseLink
-An AI Powered Investigative Intelligence
 
 This project focuses on developing an AI-driven system that integrates video evidence analysis with legal knowledge retrieval to support law enforcement investigations and legal proceedings.
 
