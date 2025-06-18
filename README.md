@@ -34,3 +34,17 @@ This project focuses on developing an AI-driven system that integrates video evi
    ```bash
    streamlit run app.py
    ```
+
+## ⚙️ Output
+
+![Image](https://github.com/user-attachments/assets/3a32b717-8c12-40c7-affa-a278738fe77e)
+
+![Image](https://github.com/user-attachments/assets/5c0120b3-a561-4c52-bdbc-0e6f56aca736)
+
+![Image](https://github.com/user-attachments/assets/6f0cb8ef-a527-4a23-97b3-c28c65c7ccdf)
+
+![Image](https://github.com/user-attachments/assets/c2f98a2f-9da1-4506-9251-837456d66726)
+
+![Image](https://github.com/user-attachments/assets/9a6be3dd-ea78-4c33-8797-bb362023afd2)
+
+
