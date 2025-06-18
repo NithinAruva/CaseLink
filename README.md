@@ -45,6 +45,10 @@ This project focuses on developing an AI-driven system that integrates video evi
 
 ![Image](https://github.com/user-attachments/assets/c2f98a2f-9da1-4506-9251-837456d66726)
 
+![Image](https://github.com/user-attachments/assets/ba57f1e6-b4ba-452e-bbd2-7012b5cea260)
+
 ![Image](https://github.com/user-attachments/assets/9a6be3dd-ea78-4c33-8797-bb362023afd2)
 
+![Image](https://github.com/user-attachments/assets/f7874fba-e8f9-48c6-9d7c-12e663fafa48)
 
+![Image](https://github.com/user-attachments/assets/d89e8823-20c3-4517-8d81-4b57b20f1639)
